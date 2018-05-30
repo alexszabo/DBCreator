@@ -1,0 +1,16 @@
+{
+    "name": "alexszabo/dbcreator",
+    "description": "Generator for MySQL (create and patch) and PHP (objects and access)",
+    "type": "library",
+    "version": "2.0.0",
+    "autoload": {
+        "psr-4": {
+            "alexszabo\\": "src/alexszabo/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "alexszabo\\": "src/alexszabo/"
+        }
+    }
+}
